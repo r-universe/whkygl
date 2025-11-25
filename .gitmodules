@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "easynem"]
 	path = easynem
-	url = https://github.com/cran/easynem
+	url = https://github.com/whkygl/easynem
